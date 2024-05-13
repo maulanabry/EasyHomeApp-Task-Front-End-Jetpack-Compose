@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyHomeApp</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_search_screen">SearchScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_developer_detail">DeveloperDetail</string>
+</resources>
